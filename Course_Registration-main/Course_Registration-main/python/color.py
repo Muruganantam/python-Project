@@ -1,0 +1,10 @@
+color_1 = "pink"
+color_2 = "lightgreen"
+color_3 = "red"
+color_4 = "white"
+color_5 = "white"
+color_6 = "yellow"
+color_7 = "orange"
+
+font_1 = "Lucida Sans"
+font_2 = "Lucida Sans Regular"
